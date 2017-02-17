@@ -1,0 +1,1 @@
+ Use Editor + Grab the js files (app and dashboard.controller)+ start debugging  
